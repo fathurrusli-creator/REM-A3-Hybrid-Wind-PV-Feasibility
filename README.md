@@ -1,5 +1,4 @@
 # REM-A3-Hybrid-Wind-PV-Feasibility
-# REM Assignment 3 – Hybrid Wind–PV + BESS Feasibility Study
 150 MW hybrid (100 MW wind + 50 MWac PV) + 30 MW/60 MWh BESS, Central-West Orana REZ, NSW.
 
 **Authors:** Fathurrahman Rusli Yakub (202522810), Tri Susilo Wirawan (202522670)
